@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 15",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "480",
+      "description": "Smartphone",
+      "createdAt": "2023-08-13"
+    },
+    {
+      "id": 2,
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "280",
+      "description": "Smartphone Red Color",
+      "createdAt": "2023-02-13"
+    },
+    {
+      "name": "Iphone 14",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "444",
+      "description": "This is an awesome smartphone with smart features and high security.",
+      "createdAt": "2023-09-30",
+      "id": 3
+    },
+    {
+      "name": "Asus 15",
+      "brand": "Asus",
+      "category": "Computers",
+      "price": "545",
+      "description": "Laptop",
+      "createdAt": "2023-10-01",
+      "id": 4
+    }
+  ]
+}
